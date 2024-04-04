@@ -1,0 +1,10 @@
+[package]
+name = "planner"
+version = "0.0.1"
+entrypoint = "lib.typ"
+authors = ["bckmnn"]
+license = "MIT"
+description = "A package to create calendars, plans, timetables and overviews."
+repository = "https://github.com/bckmnn/typst-planner"
+categories = ["layout", "visualization"]
+exclude = ["example.typ", "example.png", ".gitignore"]
